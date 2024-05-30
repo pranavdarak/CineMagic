@@ -15,11 +15,10 @@ CineMagic is an Android application designed to make booking movie tickets a bre
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.jpg)
-![Movie Details](screenshots/movie_details.jpg)
-![Seat Selection](screenshots/seat_selection.jpg)
-![Booking Confirmation](screenshots/booking_confirmation.jpg)
-
+<img src="screenshots/home_screen.jpg" alt="Home Screen" width="250"/>
+<img src="screenshots/movie_details.jpg" alt="Movie Details" width="250"/>
+<img src="screenshots/seat_selection.jpg" alt="Seat Selection" width="250"/>
+<img src="screenshots/booking_confirmation.jpg" alt="Booking Confirmation" width="250"/>
 ## Technologies Used
 
 - **Android Studio**: The primary IDE for developing the Android application.

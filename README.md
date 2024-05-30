@@ -15,10 +15,10 @@ CineMagic is an Android application designed to make booking movie tickets a bre
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Movie Details](screenshots/movie_details.png)
-![Seat Selection](screenshots/seat_selection.png)
-![Booking Confirmation](screenshots/booking_confirmation.png)
+![Home Screen](screenshots/home_screen.jpg)
+![Movie Details](screenshots/movie_details.jpg)
+![Seat Selection](screenshots/seat_selection.jpg)
+![Booking Confirmation](screenshots/booking_confirmation.jpg)
 
 ## Technologies Used
 

@@ -17,7 +17,7 @@ CineMagic is an Android application designed to make booking movie tickets a bre
 
 <div style="display: flex;">
   <img src="screenshots/home_screen.jpg" alt="Home Screen" style="width: 45%; margin-right: 5%;" />
-  <img src="screenshots/movie_details.jpg" alt="Movie Details" style="width: 45%;" />
+  <img src="screenshots/notifications.jpg" alt="Movie Details" style="width: 45%;" />
 </div>
 
 <div style="display: flex;">
